@@ -23,7 +23,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 
 | County            | FIPS Code | Done? | Discord Contributor | Verified Addresses | Link |
 | ----------------- | --------- | ----- | ------------------- | ------------------ | ---- |
-| Autauga County    | 001       | Yes   | butterbeancw        |https://autaugacountyprobateoffice.com/wp-content/uploads/2022/11/polling-place-chart.pdf| https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/autauga.csv |
+| Autauga County    | 001       | Yes   | butterbeancw        | https://autaugacountyprobateoffice.com/wp-content/uploads/2022/11/polling-place-chart.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/autauga.csv |
 | Baldwin County    | 003       |       |                     |
 | Barbour County    | 005       |       |                     |
 | Bibb County       | 007       |       |                     |
@@ -44,13 +44,13 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Coosa County      | 037       |       |                     |
 | Covington County  | 039       |       |                     |
 | Crenshaw County   | 041       |       |                     |
-| Cullman County    | 043       | Yes   | squigglejot         |                    | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/cullman.csv |
+| Cullman County    | 043       | Yes   | squigglejot         | https://www.cullmantribune.com/2025/06/27/navigating-2025-elections/ | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/cullman.csv |
 | Dale County       | 045       |       |                     |
 | Dallas County     | 047       |       |                     |
 | DeKalb County     | 049       |       |                     |
 | Elmore County     | 051       |       |                     |
 | Escambia County   | 053       |       |                     |
-| Etowah County     | 055       |       |                     |
+| Etowah County     | 055       | Yes   | butterbeancw        | https://etowahcounty.org/wp-content/uploads/sites/2/2022/11/Etowah-Polling-Locations.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/etowah.csv |  
 | Fayette County    | 057       |       |                     |
 | Franklin County   | 059       |       |                     |
 | Geneva County     | 061       |       |                     |
@@ -61,20 +61,20 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Jackson County    | 071       |       |                     |
 | Jefferson County  | 073       |       |                     |
 | Lamar County      | 075       |       |                     |
-| Lauderdale County | 077       |       |                     |
+| Lauderdale County | 077       | Yes   | BamaProgress        | https://www.lauderdalecounty.org/wp-content/uploads/2019/10/precinct-locations-10292019103352.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/lauderdale.csv |
 | Lawrence County   | 079       |       |                     |
 | Lee County        | 081       |       |                     |
-| Limestone County  | 083       |       |                     |
+| Limestone County  | 083       | Yes   | BamaProgress        | https://www.votelimestone.com/wp-content/uploads/2024/08/Beat-Map-and-Polling-Locations_August2024.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/limestone.csv |
 | Lowndes County    | 085       |       |                     |
 | Macon County      | 087       |       |                     |
-| Madison County    | 089       | Yes   | BamaProgress        |                    | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
+| Madison County    | 089       | Yes   | BamaProgress        | https://www.madisoncountyvotesal.gov/wp-content/uploads/2023/11/2024-Polling-Locations.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
 | Marengo County    | 091       |       |                     |
 | Marion County     | 093       |       |                     |
 | Marshall County   | 095       |       |                     |
 | Mobile County     | 097       |       |                     |
 | Monroe County     | 099       |       |                     |
 | Montgomery County | 101       |       |                     |
-| Morgan County     | 103       |       |                     |
+| Morgan County     | 103       | Yes   | BamaProgress        | https://morgancounty-al.gov/wp-content/uploads/PRECINCT_INFORMATION-2020.pdf  | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/morgan.csv |
 | Perry County      | 105       |       |                     |
 | Pickens County    | 107       |       |                     |
 | Pike County       | 109       |       |                     |
