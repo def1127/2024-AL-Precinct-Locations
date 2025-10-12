@@ -6,8 +6,7 @@ I'm collaborating with the [Alabama Progress Discord server](https://discord.gg/
 
 # Geocoding Methods
 
-Geographic coordinates were generated using a mix of:
-* [Nominatim](https://nominatim.org/) (OpenStreetMap-based geocoding)
+Geographic coordinates were generated using the Google API:
 * [Google Maps](https://developers.google.com/maps/documentation/geocoding/overview) (used only when open-source data was insufficient or incomplete)
 
 # County Datasets
