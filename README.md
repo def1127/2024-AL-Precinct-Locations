@@ -73,14 +73,14 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Mobile County     | 097       |       |                     |
 | Monroe County     | 099       |       |                     |
 | Montgomery County | 101       |       |                     |
-| Morgan County     | 103       | Yes   | BamaProgress        | https://morgancounty-al.gov/wp-content/uploads/PRECINCT_INFORMATION-2020.pdf  | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/morgan.csv |
+| Morgan County     | 103       | Yes   | BamaProgress        | https://morgancounty-al.gov/wp-content/uploads/PRECINCT_INFORMATION-2020.pdf  | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/morgan.csv | 
 | Perry County      | 105       |       |                     |
 | Pickens County    | 107       |       |                     |
 | Pike County       | 109       |       |                     |
 | Randolph County   | 111       |       |                     |
 | Russell County    | 113       |       |                     |
 | St. Clair County  | 115       |       |                     |
-| Shelby County     | 117       |       |                     |
+| Shelby County     | 117       | Yes   | def1127             | https://www.shelbyal.com/DocumentCenter/View/4088/Precincts-And-Voting-Centers-Map-PDF |
 | Sumter County     | 119       |       |                     |
 | Talladega County  | 121       |       |                     |
 | Tallapoosa County | 123       |       |                     |
