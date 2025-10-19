@@ -80,7 +80,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Randolph County   | 111       |       |                     |
 | Russell County    | 113       |       |                     |
 | St. Clair County  | 115       |       |                     |
-| Shelby County     | 117       | Yes   | def1127             | https://www.shelbyal.com/DocumentCenter/View/4088/Precincts-And-Voting-Centers-Map-PDF |
+| Shelby County     | 117       | Yes   | def1127             | https://www.shelbyal.com/DocumentCenter/View/4088/Precincts-And-Voting-Centers-Map-PDF | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/shelby.csv |
 | Sumter County     | 119       |       |                     |
 | Talladega County  | 121       |       |                     |
 | Tallapoosa County | 123       |       |                     |
