@@ -1,7 +1,7 @@
 Precinct,"Address (street, city, state, zip)",Latitude,Longitude,GeocodeSource
 10 JONES COMM_ CTR_,"845 Co Rd 83, Jones, AL 36749",32.5831297,-86.8928617,Google
 100 TRINITY METHODIST,"610 Fairview Ave, Prattville, AL 36066",32.470857,-86.4460888,Google
-110 CENTRAL AL ELECTRIC,"103 Jesse Samuel Hunt Blvd, Prattville, AL 36066",32.5649827,-86.462048,Google
+110 CENTRAL AL ELECTRIC,"3613 Highway 14 West Autaugaville, AL 36003 ",32.4604691,-86.79555789999999,Google
 140 AUTAUGAVILLE VFD,"2710 AL-14 W, Autaugaville, AL 36003",32.4319684,-86.6562641,Google
 150 PRATTMONT BAPTIST,"814 Smith Ave, Prattville, AL 36067",32.4544367,-86.4479887,Google
 160 DOSTER COMM_ CTR_,"424 S Northington St, Prattville, AL 36067",32.4570868,-86.4680657,Google
@@ -9,7 +9,7 @@ Precinct,"Address (street, city, state, zip)",Latitude,Longitude,GeocodeSource
 180 OLD KINGSTON VFD,"1048 County Rd 40, Prattville, AL 36067",32.5741961,-86.6096718,Google
 20 HERITAGE BAPTIST,"1357 S Memorial Dr, Prattville, AL 36067",32.44139,-86.4286953,Google
 220 UPPER KINGSTON,"1309 Upper Kingston Rd, Prattville, AL 36067",32.4986937,-86.47501199999999,Google
-230 COUNTY LINE BAPTIST,"1524 Co Rd 39, Deatsville, AL 36022",32.5332912,-86.4217408,Google
+230 COUNTY LINE BAPTIST,"1524 County Road 39, Deatsville, AL 36022",32.5332912,-86.4217408,Google
 240 GLYNWOOD BAPTIST,"376 McQueen Smith Rd N, Prattville, AL 36066",32.4755053,-86.4189931,Google
 30 BILLINGSLEY COMM_ CTR_,"1956 Church St, Billingsley, AL 36006",32.6579189,-86.7203973,Google
 40 CENTRAL AL COMM_ COLLEGE,"1320 Old Ridge Rd, Prattville, AL 36066",32.4996917,-86.4248325,Google
